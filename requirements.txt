@@ -1,0 +1,2 @@
+lyricsgenius
+tensorflow==1.13.2
