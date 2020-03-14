@@ -1,4 +1,4 @@
-#Lyrics Grab
+# Lyrics Grab
 
 To install this, make sure you have Python installed, then open a terminal window inside the directory you have this folder downloaded in and run.
 
